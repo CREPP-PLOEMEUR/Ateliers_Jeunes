@@ -4,7 +4,7 @@ Ces ateliers, mis en place en 2015, ont permis la réalisation de mini-projets p
 
 ### Sapin
 
-![Sapin](.img/sapin.jpg)
+![Sapin](.img/sapin .jpg)
 
 Un sapin clignotant réalisé en 3D
 
