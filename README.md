@@ -1,7 +1,9 @@
 <!--# Ateliers Jeunes -->
+<!--+ 2014-2015 -->
 <!--$ Arduino-->
 <!--$ Electronique -->
-<!--% Les projets réalisés par les jeunes -->
+
+<!--% Les projets réalisés par les jeunes lors des sessions dédiées le mercredi après-midi en 2014-2015. -->
 
 # Ateliers Jeunes
 
